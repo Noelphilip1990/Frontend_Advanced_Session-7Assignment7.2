@@ -1,0 +1,8 @@
+span
+{
+	
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.even { color: red; }
+.odd { color: green; }
